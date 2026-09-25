@@ -1,4 +1,4 @@
-# 海報生成器 (Made By ChatGPT, Audited and Edited Modified By october1234)
+# 海報生成器 (Made By ChatGPT, Audited and Modified By october1234)
 
 完整的 React + TypeScript + Tailwind CSS 靜態專案，使用 Vite 建置。保留目前海報生成器的繁體中文介面、六個文字欄位、文字自動縮放、照片裁切／縮放，以及固定 1920 × 1080 JPG 匯出。
 
